@@ -1,16 +1,8 @@
-# Hi, I'm Navya 👋
+# Hi, I'm Navya 
 
 🎓 Computer Science Student
-🔐 Interested in Cybersecurity & Cloud Security
-💻 Building secure systems and web applications
-
----
-
-## 🚀 Projects
-
-* 🔐 **Zero Trust Hybrid Cloud Architecture**
-* 🧠 **Deepfake Detection Research Project**
-* 🌐 **Secure Authentication Dashboard**
+🔐 Interested in Cybersecurity 
+💻 SOC Enthusiast
 
 ---
 
@@ -40,15 +32,16 @@
 
 ## 🌱 Currently Learning
 
-* DevSecOps
-* Cloud Security
+* Log Analysis
+* Incidence Response
+* Threat Analysis
 * Security Monitoring
 
 ---
 
 ## 🔗 Portfolio
 
-[My Portfolio](https://stellular-kringle-a7b462.netlify.app)
+[My Portfolio](https://navya-digital-portfolio.netlify.app/#about)
 
 ---
 
