@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Navya 👋
 
-<!--
-**navyasyal/navyasyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+🔐 Interested in Cybersecurity & Cloud Security
+💻 Building secure systems and web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+* 🔐 **Zero Trust Hybrid Cloud Architecture**
+* 🧠 **Deepfake Detection Research Project**
+* 🌐 **Secure Authentication Dashboard**
+
+---
+
+## 🛠 Skills
+
+**Languages**
+
+* JavaScript
+* Python
+* HTML
+* CSS
+
+**Technologies**
+
+* React
+* Node.js
+* MongoDB
+* Git & GitHub
+
+**Cybersecurity**
+
+* Network Security Basics
+* Zero Trust Architecture
+* SOC Concepts
+
+---
+
+## 🌱 Currently Learning
+
+* DevSecOps
+* Cloud Security
+* Security Monitoring
+
+---
+
+## 🔗 Portfolio
+
+[My Portfolio](https://stellular-kringle-a7b462.netlify.app)
+
+---
+
+⭐ Always interested in learning new technologies and building secure systems.
