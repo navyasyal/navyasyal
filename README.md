@@ -41,7 +41,7 @@
 
 ## 🔗 Portfolio
 
-[My Portfolio](https://navya-digital-portfolio.netlify.app/#about)
+[My Portfolio](https://navya-digital-portfolio.netlify.app/)
 
 ---
 
